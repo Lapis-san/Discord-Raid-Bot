@@ -22,7 +22,7 @@ class Bot(discord.Client):
         if (message.author == self.user):
             return
  
-        if (message.content.startswith("YOUR COMMAND")):
+        if (message.content.startswith(".on")):
             run = True
             while run is True:
                 await message.channel.send('YOUR RAID MESSAGE')
