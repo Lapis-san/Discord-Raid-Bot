@@ -11,3 +11,5 @@ Use
 6. enjoy
 
 This bot need admin perms
+
+Credits: bex#9999 (Me)
