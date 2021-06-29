@@ -1,7 +1,7 @@
 # Discord-Raid-Bot
 Code made in python, created to raid discord through a bot
 
-Use
+## Use
 
 1. run cmd in the folder where you download the file (raid.py)
 2. install discord using command: pip install discord
